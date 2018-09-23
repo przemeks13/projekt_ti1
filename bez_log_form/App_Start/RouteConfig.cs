@@ -4,7 +4,7 @@ using System.Web;
 using System.Web.Routing;
 using Microsoft.AspNet.FriendlyUrls;
 
-namespace bez_log_form
+namespace log_form
 {
     public static class RouteConfig
     {

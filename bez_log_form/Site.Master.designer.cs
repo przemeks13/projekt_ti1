@@ -7,8 +7,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace bez_log_form
-{
 
 
     public partial class SiteMaster
@@ -23,6 +21,7 @@ namespace bez_log_form
         /// </remarks>
         protected global::System.Web.UI.WebControls.ContentPlaceHolder HeadContent;
 
+namespace log_form {
         /// <summary>
         /// Kontrolka MainContent.
         /// </summary>

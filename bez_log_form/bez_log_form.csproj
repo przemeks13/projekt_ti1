@@ -9,12 +9,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{595E38B3-6CE2-4CE3-BD56-D76447323AE9}</ProjectGuid>
+    <ProjectGuid>{E6D99B36-7BC3-4342-B433-89C472D9640E}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>bez_log_form</RootNamespace>
-    <AssemblyName>bez_log_form</AssemblyName>
+    <RootNamespace>log_form</RootNamespace>
+    <AssemblyName>log_form</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />

@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="bez_log_form.Global" Language="C#" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="log_form.Global" Language="C#" %>

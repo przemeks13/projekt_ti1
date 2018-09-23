@@ -7,7 +7,7 @@ using System.Web.Routing;
 using System.Web.Security;
 using System.Web.SessionState;
 
-namespace bez_log_form
+namespace log_form
 {
     public class Global : HttpApplication
     {

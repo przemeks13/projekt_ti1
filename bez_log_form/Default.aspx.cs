@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace bez_log_form
+namespace log_form
 {
     public partial class _Default : Page
     {
