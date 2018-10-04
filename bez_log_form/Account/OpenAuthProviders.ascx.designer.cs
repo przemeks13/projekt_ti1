@@ -7,18 +7,18 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace bez_log_form {
+namespace bez_log_form.Account {
     
     
-    public partial class SiteMaster {
+    public partial class OpenAuthProviders {
         
         /// <summary>
-        /// Kontrolka MainContent.
+        /// Kontrolka providerDetails.
         /// </summary>
         /// <remarks>
         /// Pole generowane automatycznie.
         /// Aby zmodyfikować, przenieś deklarację pola z pliku projektanta do pliku związanego z kodem.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ContentPlaceHolder MainContent;
+        protected global::System.Web.UI.WebControls.ListView providerDetails;
     }
 }

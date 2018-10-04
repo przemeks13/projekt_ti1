@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Optimization;
 using System.Web.UI;
 
-namespace log_form
+namespace bez_log_form
 {
     public class BundleConfig
     {

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Informacje ogólne o zestawie zależą od poniższego 
 // zestawu atrybutów. Zmień wartości tych atrybutów, aby zmodyfikować informacje
 // związane z zestawem.
-[assembly: AssemblyTitle("log_form")]
+[assembly: AssemblyTitle("bez_log_form")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("log_form")]
+[assembly: AssemblyProduct("bez_log_form")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Poniższy identyfikator GUID odpowiada atrybutowi ID biblioteki typów, jeśli ten projekt jest uwidaczniany w modelu COM
-[assembly: Guid("e6d99b36-7bc3-4342-b433-89c472d9640e")]
+[assembly: Guid("595e38b3-6ce2-4ce3-bd56-d76447323ae9")]
 
 // Informacje o wersji zestawu obejmują następujące cztery wartości:
 //

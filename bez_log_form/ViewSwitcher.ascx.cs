@@ -7,7 +7,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using Microsoft.AspNet.FriendlyUrls.Resolvers;
 
-namespace log_form
+namespace bez_log_form
 {
     public partial class ViewSwitcher : System.Web.UI.UserControl
     {

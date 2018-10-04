@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace log_form {
+namespace bez_log_form {
     
     
     public partial class Site_Mobile {
